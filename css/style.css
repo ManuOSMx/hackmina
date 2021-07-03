@@ -1,0 +1,15 @@
+
+/*CLASES*/
+
+.fondo-color {
+    background-color: chocolate;
+}
+
+.color-blanco {
+    color: aliceblue;
+}
+/*ID*/
+
+#parrafo-principal {
+    color: chartreuse;
+}
